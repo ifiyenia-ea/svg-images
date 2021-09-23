@@ -1,6 +1,5 @@
-    <svg width="500" height="300" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <symbol id="credit-card" viewbox="0 0 600 400">
-      <rect rx="70" ry="70" width="450" height="300" fill="black"></rect>
-        
-    <line x1="0" y1="190" x2="455" y2="190" stroke="white" stroke-width="80"></line>
+    <svg width="455" height="300" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <symbol id="credit-card" viewbox="0 0 450 300">
+            <rect rx="70" ry="70" width="455" height="300" fill="black"></rect>
+            <line x1="0" y1="190" x2="455" y2="190" stroke="white" stroke-width="80"></line>
     </svg>
